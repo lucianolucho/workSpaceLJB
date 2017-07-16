@@ -23,6 +23,8 @@ public class TestInicio extends Action {
 			return mapping.findForward("OK");
 		else
 			return mapping.findForward("errorUsuario");
+		
+		//tets de commit a git
 	}
 
 
