@@ -25,6 +25,7 @@ public class TestInicio extends Action {
 			return mapping.findForward("errorUsuario");
 		
 		//tets de commit a git
+		//tets de commit a git a github
 	}
 
 
