@@ -26,7 +26,7 @@ public class TestInicio extends Action {
 		
 		//tets de commit a git
 		//tets de commit a git a github
-		//tets de commit a git a github
+		//tets de commit a git a github editado desde GIHUB
 	}
 
 
